@@ -1,0 +1,9 @@
+[package]
+name = "hello-heroku"
+version = "0.1.0"
+authors = []
+
+[dependencies]
+shio = "0.2.0"
+structopt = "0.1.6"
+structopt-derive = "0.1.6"
